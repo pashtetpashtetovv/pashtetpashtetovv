@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pashtetpashtetovv
 - 👀 I’m interested in becoming pro software developer
 - 🌱 I’m currently learning java + spring
-- 💞️ I’m looking to collaborate with other developers from around yhe world
+- 💞️ I’m looking to collaborate with other developers from around the world, if u think so - DM me!
 - 📫 How to reach me - u can text text in telegram @pashtetpashtetovv
 
 <!---
