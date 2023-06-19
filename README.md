@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @pashtetpashtetovv
-- 👀 I’m interested in becoming pro software developer
-- 🌱 I’m currently learning java + spring
-- 💞️ I’m looking to collaborate with other developers from around the world, if u think so - DM me!
-- 📫 How to reach me - u can text text in telegram @pashtetpashtetovv
-
-<!---
-pashtetpashtetovv/pashtetpashtetovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Little intro 🏆
+* Hi, my name is Pavel
+* I'm currently working in Vita Company
+* Samara, Russia
+* Stack - Java + Spring Boot 3
+* Platform - MacOS / Fedora 14
